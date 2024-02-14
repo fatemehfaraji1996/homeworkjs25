@@ -1,0 +1,46 @@
+body{
+    display: flex;
+    align-items: center;
+}
+.bodyp{
+    /* position: absolute; */
+    height: 600px;
+    width:1000px ;
+    background-color: rgb(225, 92, 20);
+    display: flex;
+     align-items: center;
+
+}
+.cantaner{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(207, 207, 245);
+    height: 300px;
+    width: 400px;
+    border: 1px solid;
+    border-radius: 15px;
+    position: absolute;
+    text-align: center;
+    
+}
+.namberp{
+    font-weight: 800;
+    color: green;
+}
+.namberpp{
+
+}
+.namber{
+    text-align: center;
+}
+.generator{
+    
+}
+.tas{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    position: relative;
+    top: 140px;
+
+right: -170px;}
