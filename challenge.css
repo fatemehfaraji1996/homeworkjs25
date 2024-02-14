@@ -42,6 +42,7 @@ body {
   position: relative;
   top: 140px;
   right: -170px;
+  box-shadow: 0 0 30px rgb(240, 251, 161)
 }
 .stop {
   height: 12px;
