@@ -41,7 +41,7 @@ if (counter<= 6) {
     counter++
     
 }else{
-    counter =0
+    counter = 0
 }
   });
 }
